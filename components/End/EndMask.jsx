@@ -10,7 +10,7 @@ export const EndMask = ({ setIsHovered }) => {
         onMouseLeave={() => {
           setIsHovered(false);
         }}
-        className="text-3xl sm:text-2xl xs:text-xl"
+        className="text-3xl sm:text-2xl xs:text-xl font-semibold"
       >
         何を待っていますか?
       </h4>
@@ -21,7 +21,7 @@ export const EndMask = ({ setIsHovered }) => {
         onMouseLeave={() => {
           setIsHovered(false);
         }}
-        className="text-3xlsm:text-2xl xs:text-xl"
+        className="text-3xlsm:text-2xl xs:text-xl font-semibold"
       >
         今すぐラーメンを一杯食べましょう！
       </h4>
