@@ -16,7 +16,7 @@ export const QualityMask = ({ setIsHovered }) => {
         }}
         className="col-span-4 col-start-8 self-center text-xl sm:text-lg xs:text-xs"
       >
-        "どの丼も品質の傑作で、ゆっくりと煮込まれた濃厚なスープから完璧に調理された麺まで、すべての要素が精密かつ丁寧に作られ、比類のない食事体験をお届けします。"
+        &rdquo;どの丼も品質の傑作で、ゆっくりと煮込まれた濃厚なスープから完璧に調理された麺まで、すべての要素が精密かつ丁寧に作られ、比類のない食事体験をお届けします。&rdquo;
       </h2>
     </div>
   );

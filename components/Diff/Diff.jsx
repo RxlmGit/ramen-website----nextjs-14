@@ -66,8 +66,8 @@ export const Diff = () => {
         </motion.div>
 
         <span className="col-span-4 col-start-6 row-start-3 self-center text-2xl font-semibold sm:col-span-8 sm:col-start-3 sm:row-span-1 sm:text-center sm:text-xl md:col-span-4 md:col-start-5 md:row-span-1 md:row-start-5 md:text-center md:text-base xs:col-span-10 xs:col-start-2 xs:row-span-1 xs:text-center xs:text-base">
-          "After a long day, nothing beats unwinding with a warm bowl of
-          ramen—comfort in every slurp."
+           	&ldquo;After a long day, nothing beats unwinding with a warm bowl of
+          ramen—comfort in every slurp. 	&ldquo;
         </span>
       </div>
 
@@ -93,8 +93,8 @@ export const Diff = () => {
         </motion.div>
 
         <span className="col-span-4 col-start-5 row-start-3 self-center text-2xl font-semibold sm:col-span-8 sm:col-start-3 sm:row-span-1 sm:text-center sm:text-xl md:col-span-4 md:col-start-5 md:row-span-1 md:row-start-5 md:text-center md:text-base xs:col-span-10 xs:col-start-2 xs:row-span-1 xs:text-center xs:text-base">
-          "When the rain pours, let a steaming bowl of ramen be your cozy
-          escape."
+           	&ldquo;When the rain pours, let a steaming bowl of ramen be your cozy
+          escape. 	&ldquo;
         </span>
       </div>
 
@@ -120,8 +120,8 @@ export const Diff = () => {
         </motion.div>
 
         <span className="col-span-4 col-start-6 row-start-3 self-center text-2xl font-semibold sm:col-span-8 sm:col-start-3 sm:row-span-1 sm:text-center sm:text-xl md:col-span-4 md:col-start-5 md:row-span-1 md:row-start-5 md:text-center md:text-base xs:col-span-10 xs:col-start-2 xs:row-span-1 xs:text-center xs:text-base">
-          "After a long day, nothing beats unwinding with a warm bowl of
-          ramen—comfort in every slurp."
+           	&ldquo;After a long day, nothing beats unwinding with a warm bowl of
+          ramen—comfort in every slurp. 	&ldquo;
         </span>
       </div>
     </div>
