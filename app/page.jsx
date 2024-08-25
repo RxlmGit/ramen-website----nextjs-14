@@ -1,5 +1,5 @@
 "use client";
-import Lenis from "lenis";
+// import Lenis from "lenis";
 import useMousePosition from "@/utils/useMousePosition";
 import { Hero } from "@/components/Hero/Hero";
 import { HeroMask } from "@/components/Hero/HeroMask";
@@ -40,16 +40,16 @@ export default function Home() {
     };
   }, []);
 
-  useEffect(() => {
-    const lenis = new Lenis();
+  // useEffect(() => {
+  //   const lenis = new Lenis();
 
-    function raf(time) {
-      lenis.raf(time);
-      requestAnimationFrame(raf);
-    }
+  //   function raf(time) {
+  //     lenis.raf(time);
+  //     requestAnimationFrame(raf);
+  //   }
 
-    requestAnimationFrame(raf);
-  }, []);
+  //   requestAnimationFrame(raf);
+  // }, []);
 
   const [isJapanese, setIsJapanese] = useState(false);
 
