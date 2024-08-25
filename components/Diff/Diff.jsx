@@ -120,8 +120,7 @@ export const Diff = () => {
         </motion.div>
 
         <span className="col-span-4 col-start-6 row-start-3 self-center text-2xl font-semibold sm:col-span-8 sm:col-start-3 sm:row-span-1 sm:text-center sm:text-xl md:col-span-4 md:col-start-5 md:row-span-1 md:row-start-5 md:text-center md:text-base xs:col-span-10 xs:col-start-2 xs:row-span-1 xs:text-center xs:text-base">
-           	&ldquo;After a long day, nothing beats unwinding with a warm bowl of
-          ramen—comfort in every slurp. 	&ldquo;
+           	&ldquo;Savor the solitude, one slurp at a time—ramen is the perfect companion for your solo escape. 	&ldquo;
         </span>
       </div>
     </div>

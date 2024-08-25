@@ -47,8 +47,7 @@ export const DiffMask = ({ setIsHovered }) => {
           }}
           className="col-span-4 col-start-6 row-start-3 self-center text-2xl sm:col-span-8 sm:col-start-3 sm:row-span-1 sm:text-center sm:text-xl md:col-span-4 md:col-start-5 md:row-span-1 md:row-start-5 md:text-center md:text-base xs:col-span-10 xs:col-start-2 xs:row-span-1 xs:text-center xs:text-base"
         >
-          「長い一日の終わりに、温かいラーメンを食べてリラックスするのほど良いものはありません。一口ごとに心地よさを感じます。」
-        </span>
+        一口ずつすすりながら孤独を味わいましょう。ラーメンは一人旅にぴったりのお供です。</span>
       </div>
     </div>
   );
