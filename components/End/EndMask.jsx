@@ -3,11 +3,12 @@ import React from "react";
 export const EndMask = ({ setIsHovered }) => {
   return (
     <div className="relative flex h-[100dvh] w-full flex-col items-center justify-center">
-      <img
-        src="/accentsSvgs/noodles.svg"
-        alt=""
-        className="absolute bottom-10 right-10 h-24 w-24 blur-[1px]"
-      />
+            <Image width={96}
+        height={96}
+          src="/accentsSvgs/noodles.svg"
+          alt=""
+          className="absolute bottom-10 right-10 h-24 w-24 blur-[1px] xs:h-10 xs:w-10"
+        />
       <h4
         onMouseEnter={() => {
           setIsHovered(true);
