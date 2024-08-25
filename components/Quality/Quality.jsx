@@ -93,9 +93,9 @@ export const Quality = () => {
         transition={{ duration: 0.8, ease: "easeOut" }}
         className="col-span-4 col-start-8 self-center text-xl sm:text-lg xs:text-xs"
       >
-        "Each bowl is a masterpiece of quality, with every element—from the
+        &quot;Each bowl is a masterpiece of quality, with every element—from the
         rich, slow-simmered broth to the perfectly cooked noodles—crafted with
-        precision and care to deliver an unparalleled dining experience."
+        precision and care to deliver an unparalleled dining experience.&quot;
       </motion.h2>
     </div>
   );
